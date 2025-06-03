@@ -2,6 +2,8 @@
 
 A Java Swing application that provides real-time visualization of popular sorting algorithms. Watch as different sorting algorithms organize columns of varying heights in an interactive graphical interface.
 
+![Sorting Visualization Demo](sorting.gif)
+
 ## Features
 
 - **Multiple Sorting Algorithms**: Visualize Selection Sort, Insertion Sort, and Bubble Sort
